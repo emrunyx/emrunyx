@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emrunyx
+- I'm a passion driven game dev dude
+- Currently studying and spending a lot of my free time on programming
+- Not quite sure where my path is going to lead me (:
+- Stick around and have fun!
