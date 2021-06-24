@@ -1,5 +1,5 @@
 - 👋 Hi, it's Aaron, aka the famous Emrunyx
-- I'm a passion driven game dev dude
+- I'm a passion driven game dev, web dev, ai and more dude
 - Currently studying and spending a lot of my free time on programming
 - Not quite sure where my path is going to lead me (:
 - Stick around and have fun!
